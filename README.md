@@ -1,5 +1,4 @@
 # Face-Recognition  
----  
 Can be used to trim any video with the frames of specific people, using [face_recognition](https://pypi.org/project/face-recognition/) (a state of the art deep learning trained model) and **OpenCV**.
 
 #### Steps  
